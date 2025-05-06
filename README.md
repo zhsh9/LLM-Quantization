@@ -10,7 +10,7 @@ This project provides various quantization method implementations for the Qwen3 
 | Method | Description | Documentation |
 |--------|-------------|---------------|
 | [AWQ](llm-awq) | Activation-aware Weight Quantization, an efficient quantization method for LLM compression and acceleration | [AWQ Documentation](llm-awq/readme.md) |
-| [GPTQ](GPTQ-for-Qwen) | Gradient-based Post-training Quantization method,  | [GPTQ Documentation](GPTQ-for-Qwen/README.md) |
+| [GPTQ](GPTQ-for-Qwen) | Gradient-based Post-training Quantization method  | [GPTQ Documentation](GPTQ-for-Qwen/README.md) |
 | [RTN](RTN)| Recursive Tensor Network quantization method | [RTN Documentation](RTN/README.md) |
 | [SmoothQuant](SmoothQuant-for-Qwen3) | Smooth quantization technique that reduces quantization error propagation | [SmoothQuant Documentation](SmoothQuant-for-Qwen3/README.md) |
 | Bi-LLM | Dual-precision quantization method that maintains high precision in critical layers | [Bi-LLM Documentation](./bi-llm.md) |
