@@ -1,12 +1,12 @@
 .DS_Store
 
-data/
-checkpoints
-demo_images
-serve_images
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# data/
+# checkpoints
+# demo_images
+# serve_images
+# # Byte-compiled / optimized / DLL files
+# __pycache__/
+# *.py[cod]
 *$py.class
 
 # C extensions
@@ -166,8 +166,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-*.pt
-**/*.pt
-**/*.pyc
-*.json
-__pycache__
+# *.pt
+# **/*.pt
+# **/*.pyc
+# *.json
+# __pycache__
